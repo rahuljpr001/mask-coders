@@ -4,7 +4,7 @@ import about, account,home,projects,about,contact_us
 st.set_page_config(
     page_title="MASK CODERS"
     )
-class Multipp:
+class MultiApp:
     def __init__(self):
         self.apps =[]
     def add_app(self,title,function):
