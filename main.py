@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
+import streamlit_option_menu
 import about, account,home,projects,about,contact_us
 st.set_page_config(
     page_title="MASK CODERS"
